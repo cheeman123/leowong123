@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>hi</pattern>
+    <template>I have no answer for thatÂ </template>
+  </category>
+<category>
+    <pattern>How are you today</pattern>
+    <template>I am fine today</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>
